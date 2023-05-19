@@ -4,4 +4,4 @@
 
 - This Repo helps to watch and discover Web_Dev based applications through github.io 
  
- + Solomon Belay
+ + Solomon Belay.
