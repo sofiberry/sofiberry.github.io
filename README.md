@@ -12,4 +12,5 @@
 <br>
 <hr>
 <br>
-`Developed By` : **Solomon Belay**
+`Developed By` :
+**Solomon Belay**
