@@ -7,5 +7,4 @@
  <hr>
  
  
- `Developed by`
- **Solomon Belay**
+ `Developed by` : **Solomon Belay**
