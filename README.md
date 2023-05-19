@@ -12,4 +12,4 @@
 <br>
 <hr>
 <br>
-`Developed by` : **Solomon Belay**
+ `Developed by` : **Solomon Belay**
