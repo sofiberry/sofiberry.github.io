@@ -9,9 +9,6 @@
 ## Watch My websites
 
 - https://sofiberry.github.io/First-Website/index.html
-
- 
- <hr>
- 
- 
- `Developed by` : **Solomon Belay**
+<br>
+<hr>
+`Developed by` : **Solomon Belay**
