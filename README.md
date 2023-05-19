@@ -11,6 +11,6 @@
 - https://sofiberry.github.io/First-Website/index.html
 <br>
 <hr>
-<br>
+
 `Developed By` :
 **Solomon Belay**
