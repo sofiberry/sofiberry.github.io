@@ -10,7 +10,7 @@
 ## Watch My websites
 
 - https://sofiberry.github.io/First-Website/index.html
-- https://sofiberry.github.io/TeenDog/index.html
+- https://sofiberry.github.io/tinDog/index.html
 <br>
 <hr>
 
